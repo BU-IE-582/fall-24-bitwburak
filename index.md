@@ -17,3 +17,9 @@ Burak Berk Bulut
 [IE582 HW2 Notebook .html file](hw2/IE582_hw2.html)
 
 [IE582 HW2Report PDF file](hw2/HW2_Report.pdf)
+
+********************************************************************
+
+[IE582 Term Project Notebook .ipynb file](Project/582Project.ipynb)
+[IE582 Term Project Notebook .html file](Project/IE582_Project.html)
+[IE582 Term Project Report PDF file](Project/IE582_ProjectReport.pdf)
