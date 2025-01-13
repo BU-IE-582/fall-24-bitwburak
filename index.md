@@ -21,5 +21,7 @@ Burak Berk Bulut
 ********************************************************************
 
 [IE582 Term Project Notebook .ipynb file](Project/582Project.ipynb)
+
 [IE582 Term Project Notebook .html file](Project/IE582_Project.html)
+
 [IE582 Term Project Report PDF file](Project/IE582_ProjectReport.pdf)
